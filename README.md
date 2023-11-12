@@ -1,3 +1,4 @@
+  rm -rf test-setup
   pkg install git
   pkg install python -y
   rm -rf TERMUX-SETUP-PRO
@@ -5,4 +6,3 @@
   ls
   cd TERMUX-SETUP-PRO
   ls
-  python pro-setpu-v3.py
